@@ -1,0 +1,52 @@
+===> Verifying dependencies...
+===> Compiling bug_fix
+===> Performing EUnit tests...
+======================== EUnit ========================
+file "bug_fix.app"
+  application 'bug_fix'
+    module 'bug_fix'
+      module 'bug_fix_tests'
+        multiply
+          bug_fix_tests:5: multiply_test_ (multiply(1, 1))...ok
+          bug_fix_tests:6: multiply_test_ (multiply(2, 1))...ok
+          bug_fix_tests:7: multiply_test_ (multiply(2, 2))...ok
+          bug_fix_tests:8: multiply_test_ (multiply(3, 5))...ok
+          [done in 0.063 s]
+        multiply random integers
+          bug_fix_tests:19: gen_tests (multiply(34, 61))...ok
+          bug_fix_tests:19: gen_tests (multiply(1, 10))...ok
+          bug_fix_tests:19: gen_tests (multiply(28, 16))...ok
+          bug_fix_tests:19: gen_tests (multiply(98, 78))...ok
+          bug_fix_tests:19: gen_tests (multiply(90, 81))...ok
+          bug_fix_tests:19: gen_tests (multiply(71, 37))...ok
+          bug_fix_tests:19: gen_tests (multiply(50, 41))...ok
+          bug_fix_tests:19: gen_tests (multiply(83, 19))...ok
+          bug_fix_tests:19: gen_tests (multiply(39, 90))...ok
+          bug_fix_tests:19: gen_tests (multiply(28, 89))...ok
+          bug_fix_tests:19: gen_tests (multiply(84, 11))...ok
+          bug_fix_tests:19: gen_tests (multiply(60, 53))...ok
+          bug_fix_tests:19: gen_tests (multiply(9, 8))...ok
+          bug_fix_tests:19: gen_tests (multiply(16, 100))...ok
+          bug_fix_tests:19: gen_tests (multiply(30, 88))...ok
+          bug_fix_tests:19: gen_tests (multiply(26, 21))...ok
+          bug_fix_tests:19: gen_tests (multiply(35, 56))...ok
+          bug_fix_tests:19: gen_tests (multiply(44, 30))...ok
+          bug_fix_tests:19: gen_tests (multiply(56, 81))...ok
+          bug_fix_tests:19: gen_tests (multiply(35, 86))...ok
+          bug_fix_tests:19: gen_tests (multiply(67, 61))...ok
+          bug_fix_tests:19: gen_tests (multiply(100, 83))...ok
+          bug_fix_tests:19: gen_tests (multiply(72, 34))...ok
+          bug_fix_tests:19: gen_tests (multiply(61, 85))...ok
+          bug_fix_tests:19: gen_tests (multiply(48, 99))...ok
+          bug_fix_tests:19: gen_tests (multiply(35, 23))...ok
+          bug_fix_tests:19: gen_tests (multiply(39, 49))...ok
+          bug_fix_tests:19: gen_tests (multiply(8, 59))...ok
+          bug_fix_tests:19: gen_tests (multiply(46, 45))...ok
+          bug_fix_tests:19: gen_tests (multiply(78, 53))...ok
+          [done in 0.468 s]
+        [done in 0.531 s]
+      [done in 0.531 s]
+    [done in 0.531 s]
+  [done in 0.531 s]
+=======================================================
+  All 34 tests passed.
