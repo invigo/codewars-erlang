@@ -22,9 +22,5 @@ _build
 *.iml
 rebar3.crashdump
 *~
-<<<<<<< Updated upstream
-
-=======
 *.lock
 cleanup.*
->>>>>>> Stashed changes
