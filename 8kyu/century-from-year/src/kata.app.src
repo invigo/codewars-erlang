@@ -1,0 +1,8 @@
+{application, kata,
+  [{description, "codewars - get the century of a year"},
+    {vsn, "0.0.1"},
+    {modules, []},
+    {registered, []},
+    {applications, [kernel, stdlib]},
+    {env, []}
+  ]}.
