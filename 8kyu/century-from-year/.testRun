@@ -1,0 +1,123 @@
+===> Verifying dependencies...
+===> Compiling kata
+===> Performing EUnit tests...
+======================== EUnit ========================
+file "kata.app"
+  application 'kata'
+    module 'kata'
+      module 'kata_tests'
+        Basic tests
+          kata_tests:6: basic_test_ (Testing for 1705)...ok
+          kata_tests:7: basic_test_ (Testing for 1900)...ok
+          kata_tests:8: basic_test_ (Testing for 1601)...ok
+          kata_tests:9: basic_test_ (Testing for 2000)...ok
+          kata_tests:10: basic_test_ (Testing for 89)...ok
+          [done in 0.078 s]
+        Random tests
+          kata_tests:19: gen_random (Testing for 142686)...ok
+          kata_tests:19: gen_random (Testing for 452268)...ok
+          kata_tests:19: gen_random (Testing for 409551)...ok
+          kata_tests:19: gen_random (Testing for 11220)...ok
+          kata_tests:19: gen_random (Testing for 864461)...ok
+          kata_tests:19: gen_random (Testing for 728682)...ok
+          kata_tests:19: gen_random (Testing for 394489)...ok
+          kata_tests:19: gen_random (Testing for 924351)...ok
+          kata_tests:19: gen_random (Testing for 722093)...ok
+          kata_tests:19: gen_random (Testing for 667534)...ok
+          kata_tests:19: gen_random (Testing for 121378)...ok
+          kata_tests:19: gen_random (Testing for 356572)...ok
+          kata_tests:19: gen_random (Testing for 476373)...ok
+          kata_tests:19: gen_random (Testing for 402813)...ok
+          kata_tests:19: gen_random (Testing for 563005)...ok
+          kata_tests:19: gen_random (Testing for 73189)...ok
+          kata_tests:19: gen_random (Testing for 66985)...ok
+          kata_tests:19: gen_random (Testing for 639927)...ok
+          kata_tests:19: gen_random (Testing for 722376)...ok
+          kata_tests:19: gen_random (Testing for 893031)...ok
+          kata_tests:19: gen_random (Testing for 452291)...ok
+          kata_tests:19: gen_random (Testing for 117033)...ok
+          kata_tests:19: gen_random (Testing for 103249)...ok
+          kata_tests:19: gen_random (Testing for 125139)...ok
+          kata_tests:19: gen_random (Testing for 496631)...ok
+          kata_tests:19: gen_random (Testing for 934889)...ok
+          kata_tests:19: gen_random (Testing for 808606)...ok
+          kata_tests:19: gen_random (Testing for 421085)...ok
+          kata_tests:19: gen_random (Testing for 309856)...ok
+          kata_tests:19: gen_random (Testing for 737471)...ok
+          kata_tests:19: gen_random (Testing for 506544)...ok
+          kata_tests:19: gen_random (Testing for 892556)...ok
+          kata_tests:19: gen_random (Testing for 568807)...ok
+          kata_tests:19: gen_random (Testing for 723458)...ok
+          kata_tests:19: gen_random (Testing for 174944)...ok
+          kata_tests:19: gen_random (Testing for 79912)...ok
+          kata_tests:19: gen_random (Testing for 423963)...ok
+          kata_tests:19: gen_random (Testing for 929317)...ok
+          kata_tests:19: gen_random (Testing for 833668)...ok
+          kata_tests:19: gen_random (Testing for 581396)...ok
+          kata_tests:19: gen_random (Testing for 62315)...ok
+          kata_tests:19: gen_random (Testing for 65060)...ok
+          kata_tests:19: gen_random (Testing for 687027)...ok
+          kata_tests:19: gen_random (Testing for 302802)...ok
+          kata_tests:19: gen_random (Testing for 633889)...ok
+          kata_tests:19: gen_random (Testing for 878024)...ok
+          kata_tests:19: gen_random (Testing for 824842)...ok
+          kata_tests:19: gen_random (Testing for 787875)...ok
+          kata_tests:19: gen_random (Testing for 359261)...ok
+          kata_tests:19: gen_random (Testing for 793635)...ok
+          kata_tests:19: gen_random (Testing for 388151)...ok
+          kata_tests:19: gen_random (Testing for 102020)...ok
+          kata_tests:19: gen_random (Testing for 355752)...ok
+          kata_tests:19: gen_random (Testing for 682719)...ok
+          kata_tests:19: gen_random (Testing for 714123)...ok
+          kata_tests:19: gen_random (Testing for 208566)...ok
+          kata_tests:19: gen_random (Testing for 188032)...ok
+          kata_tests:19: gen_random (Testing for 596190)...ok
+          kata_tests:19: gen_random (Testing for 301049)...ok
+          kata_tests:19: gen_random (Testing for 25023)...ok
+          kata_tests:19: gen_random (Testing for 954718)...ok
+          kata_tests:19: gen_random (Testing for 847971)...ok
+          kata_tests:19: gen_random (Testing for 116884)...ok
+          kata_tests:19: gen_random (Testing for 759762)...ok
+          kata_tests:19: gen_random (Testing for 943758)...ok
+          kata_tests:19: gen_random (Testing for 251155)...ok
+          kata_tests:19: gen_random (Testing for 341025)...ok
+          kata_tests:19: gen_random (Testing for 203811)...ok
+          kata_tests:19: gen_random (Testing for 612998)...ok
+          kata_tests:19: gen_random (Testing for 176076)...ok
+          kata_tests:19: gen_random (Testing for 158170)...ok
+          kata_tests:19: gen_random (Testing for 361585)...ok
+          kata_tests:19: gen_random (Testing for 661243)...ok
+          kata_tests:19: gen_random (Testing for 203177)...ok
+          kata_tests:19: gen_random (Testing for 570363)...ok
+          kata_tests:19: gen_random (Testing for 265483)...ok
+          kata_tests:19: gen_random (Testing for 833730)...ok
+          kata_tests:19: gen_random (Testing for 903805)...ok
+          kata_tests:19: gen_random (Testing for 283446)...ok
+          kata_tests:19: gen_random (Testing for 816816)...ok
+          kata_tests:19: gen_random (Testing for 641036)...ok
+          kata_tests:19: gen_random (Testing for 473554)...ok
+          kata_tests:19: gen_random (Testing for 334050)...ok
+          kata_tests:19: gen_random (Testing for 218520)...ok
+          kata_tests:19: gen_random (Testing for 131710)...ok
+          kata_tests:19: gen_random (Testing for 961552)...ok
+          kata_tests:19: gen_random (Testing for 443532)...ok
+          kata_tests:19: gen_random (Testing for 65105)...ok
+          kata_tests:19: gen_random (Testing for 798491)...ok
+          kata_tests:19: gen_random (Testing for 209776)...ok
+          kata_tests:19: gen_random (Testing for 340275)...ok
+          kata_tests:19: gen_random (Testing for 100554)...ok
+          kata_tests:19: gen_random (Testing for 856798)...ok
+          kata_tests:19: gen_random (Testing for 125045)...ok
+          kata_tests:19: gen_random (Testing for 677913)...ok
+          kata_tests:19: gen_random (Testing for 62536)...ok
+          kata_tests:19: gen_random (Testing for 179882)...ok
+          kata_tests:19: gen_random (Testing for 102966)...ok
+          kata_tests:19: gen_random (Testing for 311555)...ok
+          kata_tests:19: gen_random (Testing for 636221)...ok
+          [done in 1.563 s]
+        [done in 1.641 s]
+      [done in 1.641 s]
+    [done in 1.641 s]
+  [done in 1.641 s]
+=======================================================
+  All 105 tests passed.
