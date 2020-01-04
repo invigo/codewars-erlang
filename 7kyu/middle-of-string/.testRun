@@ -1,0 +1,329 @@
+===> Verifying dependencies...
+===> Compiling solution
+===> Performing EUnit tests...
+======================== EUnit ========================
+file "solution.app"
+  application 'solution'
+    module 'solution'
+    [done in 0.031 s]
+  [done in 0.046 s]
+module 'tests'
+  Basic tests
+    Test I
+      tests:9: basic_test_ (Returns "es" for "test".)...ok
+      [done in 0.016 s]
+    Test II
+      tests:11: basic_test_ (Returns "t" for "testing".)...ok
+      [done in 0.015 s]
+    Test III
+      tests:13: basic_test_ (Returns "dd" for "middle".)...ok
+      [done in 0.016 s]
+    Test IV
+      tests:15: basic_test_ (Returns "A" for "A".)...ok
+      [done in 0.016 s]
+    [done in 0.063 s]
+  Random tests
+    Random test number 1
+      tests:40: single_random_test (Returns "N" for "N".)...ok
+      [done in 0.015 s]
+    Random test number 2
+      tests:40: single_random_test (Returns "Hi" for "Hi".)...ok
+      [done in 0.016 s]
+    Random test number 3
+      tests:40: single_random_test (Returns "D" for "MDU".)...ok
+      [done in 0.016 s]
+    Random test number 4
+      tests:40: single_random_test (Returns "iv" for "9ivP".)...ok
+      [done in 0.015 s]
+    Random test number 5
+      tests:40: single_random_test (Returns "J" for "uVJQ4".)...ok
+      [done in 0.016 s]
+    Random test number 6
+      tests:40: single_random_test (Returns "8k" for "pL8kPd".)...ok
+      [done in 0.015 s]
+    Random test number 7
+      tests:40: single_random_test (Returns "z" for "XrfzWAs".)...ok
+      [done in 0.016 s]
+    Random test number 8
+      tests:40: single_random_test (Returns "dw" for "Auhdwjwo".)...ok
+      [done in 0.016 s]
+    Random test number 9
+      tests:40: single_random_test (Returns "K" for "W2LVKln57".)...ok
+      [done in 0.015 s]
+    Random test number 10
+      tests:40: single_random_test (Returns "mq" for "TDcemqTFyr".)...ok
+      [done in 0.016 s]
+    Random test number 11
+      tests:40: single_random_test (Returns "s" for "KNhMmsCPOp0".)...ok
+      [done in 0.016 s]
+    Random test number 12
+      tests:40: single_random_test (Returns "cP" for "1RLHScPpnqtv".)...ok
+      [done in 0.015 s]
+    Random test number 13
+      tests:40: single_random_test (Returns "O" for "2lQQ77OocKIyr".)...ok
+      [done in 0.016 s]
+    Random test number 14
+      tests:40: single_random_test (Returns "Dy" for "ZD8YyeDySKQqfL".)...ok
+      [done in 0.015 s]
+    Random test number 15
+      tests:40: single_random_test (Returns "c" for "dcyu6sEcDfptFT3".)...ok
+      [done in 0.016 s]
+    Random test number 16
+      tests:40: single_random_test (Returns "ow" for "Q0rdpTxowkaamlC0".)...ok
+      [done in 0.016 s]
+    Random test number 17
+      tests:40: single_random_test (Returns "2" for "vlYwwDD22ufaw6ILz".)...ok
+      [done in 0.015 s]
+    Random test number 18
+      tests:40: single_random_test (Returns "dG" for "qsCIwT6RdGgNoEhYrL".)...ok
+      [done in 0.016 s]
+    Random test number 19
+      tests:40: single_random_test (Returns "9" for "RdL4fAtEX9WowiXDmSW".)...ok
+      [done in 0.016 s]
+    Random test number 20
+      tests:40: single_random_test (Returns "F4" for "rjvDTNOIRF4gGGEoVObT".)...ok
+      [done in 0.015 s]
+    Random test number 21
+      tests:40: single_random_test (Returns "8" for "B1btlxVvtN8wr0YlUFfkm".)...ok
+      [done in 0.016 s]
+    Random test number 22
+      tests:40: single_random_test (Returns "M2" for "zois1ko2oTM2iAeAh1HctF".)...ok
+      [done in 0.015 s]
+    Random test number 23
+      tests:40: single_random_test (Returns "b" for "yB6Yliq3iyEbzFngn9Sugzh".)...ok
+      [done in 0.016 s]
+    Random test number 24
+      tests:40: single_random_test (Returns "Uu" for "ZOjekS4wqCxUuFM96Ff2R3B3".)...ok
+      [done in 0.016 s]
+    Random test number 25
+      tests:40: single_random_test (Returns "W" for "7KYSfSScxNQMWq60C94lLt6lz".)...ok
+      [done in 0.015 s]
+    Random test number 26
+      tests:40: single_random_test (Returns "7E" for "LI1KjlDxqwzE7Em2HwdDgYRXc1".)...ok
+      [done in 0.016 s]
+    Random test number 27
+      tests:40: single_random_test (Returns "s" for "nqsvE99RfLMG8sdhBVOzaxY1XDf".)...ok
+      [done in 0.016 s]
+    Random test number 28
+      tests:40: single_random_test (Returns "zE" for "MaEVVxClEhqofzEeQUcqXJeaPGye".)...ok
+      [done in 0.015 s]
+    Random test number 29
+      tests:40: single_random_test (Returns "a" for "ymvCH3ByfECAZMamnxNFq4cAHev9g".)...ok
+      [done in 0.016 s]
+    Random test number 30
+      tests:40: single_random_test (Returns "Vk" for "mpeX6ERUAH3p89Vkf3zsbi0iqT8gmh".)...ok
+      [done in 0.015 s]
+    Random test number 31
+      tests:40: single_random_test (Returns "l" for "7SnMazzppjz4143llXcLow3AMkUxw0Q".)...ok
+      [done in 0.016 s]
+    Random test number 32
+      tests:40: single_random_test (Returns "SS" for "P1UXG6uHdImiLdqSS0VNY0D8u93W52uY".)...ok
+      [done in 0.016 s]
+    Random test number 33
+      tests:40: single_random_test (Returns "x" for "L1aGacFupM5JTloExsvDM6TydToYhIq4j".)...ok
+      [done in 0.015 s]
+    Random test number 34
+      tests:40: single_random_test (Returns "kh" for "mBNgZ68zx4uSWWi4khazPO821m9B9QB2Pp".)...ok
+      [done in 0.016 s]
+    Random test number 35
+      tests:40: single_random_test (Returns "5" for "Mjv4E2r7OxkLmzCBx5LckB8k1mUQQYijGXC".)...ok
+      [done in 0.016 s]
+    Random test number 36
+      tests:40: single_random_test (Returns "tU" for "0Fy47OPDVUN6iDYBQtUKXpiEl4PoERpgA1bA".)...ok
+      [done in 0.015 s]
+    Random test number 37
+      tests:40: single_random_test (Returns "l" for "p4wnazeGHo2F4UZbWzlZU8vLsOc27P4mBTsb2".)...ok
+      [done in 0.016 s]
+    Random test number 38
+      tests:40: single_random_test (Returns "8u" for "sNWM97IykVwYHxq3RP8uTmKxZVD01Gu0E5TZyT".)...ok
+      [done in 0.015 s]
+    Random test number 39
+      tests:40: single_random_test (Returns "7" for "wLcWlt0PPusTsJlAKUZ7DeaWVzvC1sIVdUTKCQy".)...ok
+      [done in 0.016 s]
+    Random test number 40
+      tests:40: single_random_test (Returns "61" for "hMkdHCr4rCJhVyR4gHL61VWYcAH69RZ8s3bNjAAp".)...ok
+      [done in 0.016 s]
+    Random test number 41
+      tests:40: single_random_test (Returns "E" for "j9eyGMG7jbmraTW6C7V4EGJ9WrHRfFmo0ERpUuepj".)...ok
+      [done in 0.015 s]
+    Random test number 42
+      tests:40: single_random_test (Returns "Ko" for "1zBqJU4Ro4HasLcDqOQaKo7gSdufrHeLUfs9Cf4Mw7".)...ok
+      [done in 0.016 s]
+    Random test number 43
+      tests:40: single_random_test (Returns "Y" for "Ff0xqoUIPR63FMI9Lh4lXYK8KoNVLK7e9xaCjeQS4jf".)...ok
+      [done in 0.016 s]
+    Random test number 44
+      tests:40: single_random_test (Returns "YB" for "5u51ajUSJyEBYw15JYIe1YBecCXu3KBXiGeIDQw8NXS6".)...ok
+      [done in 0.015 s]
+    Random test number 45
+      tests:40: single_random_test (Returns "9" for "NcNVd5ITDuenVNkmS5h6qz9TEjZJjB2xlDmBZb2rEI5N9".)...ok
+      [done in 0.016 s]
+    Random test number 46
+      tests:40: single_random_test (Returns "sX" for "B4NVz5YoKKC3kKiGbm0yl1sXjkHt9wrMWPr4McVvkuamgK".)...ok
+      [done in 0.015 s]
+    Random test number 47
+      tests:40: single_random_test (Returns "x" for "7wlddhoOAe4VR8SAYVHhdBPxWxXNnI3HZ6Boz6SwlQFWhtR".)...ok
+      [done in 0.016 s]
+    Random test number 48
+      tests:40: single_random_test (Returns "qq" for "46RGTZP0EUI0QtItpNcHF9Uqq5ZSf3vN9wW7wpGmmTbSboVK".)...ok
+      [done in 0.016 s]
+    Random test number 49
+      tests:40: single_random_test (Returns "H" for "Jfekok9O2oZ2FyKltKebyz2uHeVSkXmkGu6e8LwWxAsnGKMtX".)...ok
+      [done in 0.015 s]
+    Random test number 50
+      tests:40: single_random_test (Returns "n0" for "C5MLGK87qikJfd15fna0JDbZn0oSITdEMLELKVt39Sur6JK8lC".)...ok
+      [done in 0.016 s]
+    Random test number 51
+      tests:40: single_random_test (Returns "C" for "Rxual4iZ68o3wpCWbBZhVj4WFCmYbKg5gTYQef6pRcPJY3yRfTs".)...ok
+      [done in 0.016 s]
+    Random test number 52
+      tests:40: single_random_test (Returns "86" for "CLc4VqecxTy9DZovg7GvwA7Ip86agkOyvU1fmt3HaxLjfbAdDqTt".)...ok
+      [done in 0.015 s]
+    Random test number 53
+      tests:40: single_random_test (Returns "N" for "QAZ4idtI3Nau6bwr9raHqkqUwZNYrU2PEvXp09lN79QQSGNQRXOpl".)...ok
+      [done in 0.016 s]
+    Random test number 54
+      tests:40: single_random_test (Returns "vq" for "RjG3bFLAw1RaS7IgdG99ITIZRMvqWXD8tFv1V853tzt2KaTI31mlTe".)...ok
+      [done in 0.015 s]
+    Random test number 55
+      tests:40: single_random_test (Returns "Y" for "QzI6v1QX6oPoM5uFS0qURerl6IOY6AnlME0oBwLu6R69rkOjVCxyCZD".)...ok
+      [done in 0.016 s]
+    Random test number 56
+      tests:40: single_random_test (Returns "N1" for "uBMJxEr2WgeAkZrlOAOxA8yNrAZN1l90jBuwuRI9FRgVR8VOqdEstCUv".)...ok
+      [done in 0.016 s]
+    Random test number 57
+      tests:40: single_random_test (Returns "U" for "WEcs8zj81cAyV4tWuQZaOv7tu75RUMM81FiENZYdh9AgNjue1loxqJDBk".)...ok
+      [done in 0.015 s]
+    Random test number 58
+      tests:40: single_random_test (Returns "m5" for "WcyJ7rqiVs8btNMY7DfIoaCR2u88m5vub14oPSshCNnfHyIwvXz0yPkYqN".)...ok
+      [done in 0.016 s]
+    Random test number 59
+      tests:40: single_random_test (Returns "w" for "wKFU92AEPDp2fk8w434fgIPVLOD1fwbFxKRZWUEA7QI3FLcFxE3LwxmsOnE".)...ok
+      [done in 0.016 s]
+    Random test number 60
+      tests:40: single_random_test (Returns "gl" for "fbJVe2qSGpkwTpxyXGmVwv6OXanNKglXy4UHzCcjKqi6MrSxOY6gc2MDkggT".)...ok
+      [done in 0.015 s]
+    Random test number 61
+      tests:40: single_random_test (Returns "A" for "DcqxQ7e3jVTO2WUh44RfREFwDTsoXwATSuQpTcdr9oPbBvbwEhLSH02liLOJ5".)...ok
+      [done in 0.016 s]
+    Random test number 62
+      tests:40: single_random_test (Returns "Wp" for "m3TdRZjzoOTeTBs3l3JrN5btnbOijjWpTiqBcHy03GwBCYChO19jjQ5yF2vU6Q".)...ok
+      [done in 0.015 s]
+    Random test number 63
+      tests:40: single_random_test (Returns "8" for "Tp9py21tUS0AeXEfQh11vqO1gsiTcmd8mM4d9g9Wkg6YnDReoJRQvsOns1k0OCb".)...ok
+      [done in 0.016 s]
+    Random test number 64
+      tests:40: single_random_test (Returns "Lf" for "5cVuSuLsO6sLKD4tuBTwRqOulXUjPgVLfHyVU2jTRBfrn4kMqUBOVmg3KREvi3KM".)...ok
+      [done in 0.016 s]
+    Random test number 65
+      tests:40: single_random_test (Returns "T" for "58lRPpv48leAi9KLwzSx94Rivs13hZXsTSiiDtrkE4DoeaepMCnLcF8H8hWQv1TR9".)...ok
+      [done in 0.015 s]
+    Random test number 66
+      tests:40: single_random_test (Returns "zD" for "sqocQEGpCM7iAIDzsjcVm3SjiYVRTqHWzDGPEiOkC2T1x2EITgkLCSqj8fa3rfiTLV".)...ok
+      [done in 0.016 s]
+    Random test number 67
+      tests:40: single_random_test (Returns "N" for "XDW57nBlCEsAzcqZBp3kXn1B9rSyLrMSDNmX7twq4Xu6lcsK7gCR0TgLU7NrSLOzB5d".)...ok
+      [done in 0.016 s]
+    Random test number 68
+      tests:40: single_random_test (Returns "5f" for "VaEkcRsGPbX843divAIZCO0iLzGCaKgKz5fyQpPkj1x5cjGOB9yul4So4L1GUOCx9MJD".)...ok
+      [done in 0.015 s]
+    Random test number 69
+      tests:40: single_random_test (Returns "r" for "sIgXy0eXvKGx4oDkyro0xlyh4K1JOG0lJ8rxLlOLbTus5IAWZ5oEjoYbLWsxU5IZ71lF8".)...ok
+      [done in 0.016 s]
+    Random test number 70
+      tests:40: single_random_test (Returns "Kt" for "l09m2znYJqwGG4yv9SR2L7Ws1r4ubtYlFRKt5YyvoDetb6T7alsfdh4WMOt39AChunMczw".)...ok
+      [done in 0.015 s]
+    Random test number 71
+      tests:40: single_random_test (Returns "Q" for "cUHtdtd66gLKa8uOP6f7nptn7wdiUvYKwbJQ227DFBjc4qWvosc6BT8ZKOvL4yY9dkqIpIH".)...ok
+      [done in 0.016 s]
+    Random test number 72
+      tests:40: single_random_test (Returns "p8" for "qNWWtPQdEzZYeirFuaSZoxIvM0y5pPXek6vp8epQ6EB8Bjqux5MvPnZgoITonCie878irG9E".)...ok
+      [done in 0.016 s]
+    Random test number 73
+      tests:40: single_random_test (Returns "Q" for "qZWqiftpUlU5FQI1kXRa4ALrpnnJOrwtO2DOQuW9Wi2NDFuKnvt7U5dzM9GrevVyyOfJ5NnKW".)...ok
+      [done in 0.015 s]
+    Random test number 74
+      tests:40: single_random_test (Returns "q1" for "zWIxeJQaEByxAUGXYDEFc0ysS0OpdC5YzMZ4q1zB3orLB56BC25g0IBmgfXbRV2d7XaN5effGm".)...ok
+      [done in 0.016 s]
+    Random test number 75
+      tests:40: single_random_test (Returns "S" for "8cQGEqUWn0EDBuII3kxiyqw3zFgBO5KRJ1D65SNMLFihj0R0LyRGLffj1YEHCq8j2AtROHnr1Gr".)...ok
+      [done in 0.016 s]
+    Random test number 76
+      tests:40: single_random_test (Returns "iw" for "SGpZml1DBQXYjfmRcz2clp5LprVH5p1bPkWF9iw5iiNEBYzXhXNKiTAtjAkl1nClupMMfhFYDoRi".)...ok
+      [done in 0.015 s]
+    Random test number 77
+      tests:40: single_random_test (Returns "C" for "OwHNgH21bUpPIuueNxlhCmfmQUSHPe6NaVpYQkC1uESVViX1pzASuqrFRLYCFz1WcRmrPHi2xGJmu".)...ok
+      [done in 0.016 s]
+    Random test number 78
+      tests:40: single_random_test (Returns "HP" for "VM1iJZSNUxG7xSEkFk2PKxtzXh5REOBjYIqxiCHPi3cReo4mXeYzfVNqfvwjHABto26zDu0ZOlPf6I".)...ok
+      [done in 0.015 s]
+    Random test number 79
+      tests:40: single_random_test (Returns "O" for "uol5nh58gkYQDpEaZOdkZBoZ6CoCl8RUKbpIojtONWhOWB6mbvTOqjeecZSPIg3BzjwOLCkQluwElhI".)...ok
+      [done in 0.016 s]
+    Random test number 80
+      tests:40: single_random_test (Returns "Lg" for "KaZAu9r4TOiX842susHk06kZzZ7Zynjg87umjpoLgOTzpPfDvjitEmgLYh0jW2sMfnRsmtsFCt6IJeUH".)...ok
+      [done in 0.016 s]
+    Random test number 81
+      tests:40: single_random_test (Returns "6" for "zVMeQk0xjqACmBZAWtn4zAqghk9Mx7q5KpdGWgg06D5U2cBTWFpwLvrxIPMuwmyNOe9j0lmpDHKwepLWx".)...ok
+      [done in 0.015 s]
+    Random test number 82
+      tests:40: single_random_test (Returns "PQ" for "Xdhs6Y1Uq9GoL9B4sc9aNztbAYdZqLubIQf2BfpxPQnSxO37TpsovoOpDYMeQA3TW9i5H7Y3imi51JVjZq".)...ok
+      [done in 0.016 s]
+    Random test number 83
+      tests:40: single_random_test (Returns "f" for "367yxGfvzm20UWKd4Hbf0FwRmOJ8fYzPqsBSXoYsDftFDBCJ1LB5lWquiMXVaW2or4gYt1EwskXa6D3ef8y".)...ok
+      [done in 0.016 s]
+    Random test number 84
+      tests:40: single_random_test (Returns "sz" for "vLcXHUQt8hSrzKZ6NUglOBDkRs7E4AqxrwLkLC21fszjbt1LVkQtM8iKo2GRnVCsviiZFxZPvT1lGgvv4dUZ".)...ok
+      [done in 0.015 s]
+    Random test number 85
+      tests:40: single_random_test (Returns "Y" for "k0nyJ2wSI50WlrkzFw1O5NUeyA2M5ZqIoGklZmjVzkYKtgvrGLYihXKX1ZDnWurLi2KXyjLY4cLJQFVFyhseM".)...ok
+      [done in 0.016 s]
+    Random test number 86
+      tests:40: single_random_test (Returns "dv" for "FzxEMpjiAL1rd6ocjwiLaCoyWR3MoYUL5nKAezoB6wdvkNpEWG9I9pZHksVAK4wasiS3PAcythPq5RRlkp7dcD".)...ok
+      [done in 0.015 s]
+    Random test number 87
+      tests:40: single_random_test (Returns "f" for "dBOHRZai7GX5VSlKXIOc3AoAip3bMZkV4M368O4wKs7fhswaFEW7gTBaVA6ZzmueBX3YwMgLwgL4ahdy33P9i7s".)...ok
+      [done in 0.016 s]
+    Random test number 88
+      tests:40: single_random_test (Returns "DY" for "6BhSpIiftEyAFo1DUfYq2URdnHMutMlPVj9k27qe8E8DYlZo6rHhvN5Ca2XZYv7KjPtJzjuNbtfdNOGh10eYBWeY".)...ok
+      [done in 0.016 s]
+    Random test number 89
+      tests:40: single_random_test (Returns "Q" for "ZM8TVOc8npBC2Hs0jZ1c4hhkCvdQg7a4HdeJBRTPIomtQH2Te8gAb8EIdu8kSlC6I2uR8b1QgNFBntz0lIlRXgtsb".)...ok
+      [done in 0.015 s]
+    Random test number 90
+      tests:40: single_random_test (Returns "5P" for "qlw8t4o5z5yQTdGrliwicpVu2KzwgXZywIjcnkxynO0W5PWI7hIBU98a3t6zKnHv5I0p7ZWm1uahvhTDP0z31qOmMT".)...ok
+      [done in 0.016 s]
+    Random test number 91
+      tests:40: single_random_test (Returns "7" for "jyBOTSxgWiWUakwRQ9mckR3O990GwcAKwT8Thcho2Zcer76HuevI7GMMsvk24MabQuFLHZLUlgVydH8fx6PjjpNMyPV".)...ok
+      [done in 0.016 s]
+    Random test number 92
+      tests:40: single_random_test (Returns "mf" for "ULK6yO7ZLgYblMVL0O80NaBIn2uob946kmUDCtPElKnmsmfu89ExdMpeBwrGO8MeDkkC1k8ZzzrH6F6JbIfBr9YjdCS5".)...ok
+      [done in 0.015 s]
+    Random test number 93
+      tests:40: single_random_test (Returns "W" for "B6EaXG0DndOcZzGQWKLwlOKfX0A5MEjvIhiHNL7Og6wZYCWGDGkUY1KhbOObIcmei3arqzzjpKgdjaC5RA1MFsYmVQEBb".)...ok
+      [done in 0.016 s]
+    Random test number 94
+      tests:40: single_random_test (Returns "o8" for "iGGniHSQ6Irz5ur7ndrK7ax14lPrJqj6adZmPtJVqeae7Ro8voRSVGkdk738BNgevbMurwYXch1urMDmyz2d8ZvuNn1UXU".)...ok
+      [done in 0.015 s]
+    Random test number 95
+      tests:40: single_random_test (Returns "Z" for "ALPaSiWDWW6sw9fNjRUjAwOT3i7WDaLYnSJOLDKAwd3XNiCZRroU3lADAP6xm2J8Cp7Px7B7TOREIsFUv611dyb6x7i88EB".)...ok
+      [done in 0.016 s]
+    Random test number 96
+      tests:40: single_random_test (Returns "5W" for "jb86N0ZvGVtosrK7JdHSuomnEvubm13wckBIsGFyULxHSr95WiLLy4Gpxe66pjl6M6yBw0SKvJrYcMJlx7ZRwPiE1r4zpRL1".)...ok
+      [done in 0.016 s]
+    Random test number 97
+      tests:40: single_random_test (Returns "M" for "fTyUb0WT1EXrYtMGACwk7g7tKQsa6iWl2kulKfMMyPvHH2baMhJD8qmikWXcjxFQ7a7lrYsZebtFsV0m0LkLrAS9Bn6gAqijG".)...ok
+      [done in 0.015 s]
+    Random test number 98
+      tests:40: single_random_test (Returns "V7" for "CsPfRjZTs9GbeZrS8DMu0nSFFvCpXce9xSZsiXEcNze5jzasV7hw78bpRXAy8PP8aKhsXJ1j49HHgr0sG6VLlo6OlKcHfVjYli".)...ok
+      [done in 0.016 s]
+    Random test number 99
+      tests:40: single_random_test (Returns "k" for "AFxFWW5GJ9z0nZVMCPTbEG3IrpAw9OIHSIER0XmCZRAr7qfEskLFs0auGipqthlih3mlj19w7TurIYhCNMYobCtc29DmaplU1ax".)...ok
+      [done in 0.016 s]
+    Random test number 100
+      tests:40: single_random_test (Returns "OQ" for "KFlBgqh5PCPjcARKrvckuLWYtSC4y2y0qdlTGV7ZViVICmaM6OQticZE4n0N4a7d3RNB1gSQjAQl5ZYMzOvfdXflg0Y2M9cGqqIQ".)...ok
+      [done in 0.015 s]
+    [done in 1.562 s]
+  [done in 1.625 s]
+=======================================================
+  All 104 tests passed.
