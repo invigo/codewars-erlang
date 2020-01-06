@@ -1,0 +1,8 @@
+{application, kata,
+  [{description, "codewars - find the max multiple of a number, below a limit"},
+    {vsn, "0.0.1"},
+    {modules, []},
+    {registered, []},
+    {applications, [kernel, stdlib]},
+    {env, []}
+  ]}.
