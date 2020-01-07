@@ -1,0 +1,124 @@
+===> Verifying dependencies...
+===> Compiling kata
+===> Performing EUnit tests...
+======================== EUnit ========================
+file "kata.app"
+  application 'kata'
+    module 'kata'
+      module 'kata_tests'
+        Basic tests
+          kata_tests:6: basic_test_ (max_multiple(2, 7))...ok
+          kata_tests:7: basic_test_ (max_multiple(3, 10))...ok
+          kata_tests:8: basic_test_ (max_multiple(7, 17))...ok
+          kata_tests:9: basic_test_ (max_multiple(10, 50))...ok
+          kata_tests:10: basic_test_ (max_multiple(37, 200))...ok
+          kata_tests:11: basic_test_ (max_multiple(7, 100))...ok
+          [done in 0.094 s]
+        Random tests
+          kata_tests:19: gen_random (max_multiple(956, 519820))...[0.093 s] ok
+          kata_tests:19: gen_random (max_multiple(894, 682235))...[0.094 s] ok
+          kata_tests:19: gen_random (max_multiple(608, 336390))...[0.047 s] ok
+          kata_tests:19: gen_random (max_multiple(490, 683071))...[0.109 s] ok
+          kata_tests:19: gen_random (max_multiple(46, 469793))...[0.062 s] ok
+          kata_tests:19: gen_random (max_multiple(784, 622923))...[0.094 s] ok
+          kata_tests:19: gen_random (max_multiple(242, 746585))...[0.125 s] ok
+          kata_tests:19: gen_random (max_multiple(492, 775135))...[0.125 s] ok
+          kata_tests:19: gen_random (max_multiple(952, 507084))...[0.062 s] ok
+          kata_tests:19: gen_random (max_multiple(965, 725573))...[0.109 s] ok
+          kata_tests:19: gen_random (max_multiple(677, 752602))...[0.109 s] ok
+          kata_tests:19: gen_random (max_multiple(626, 413672))...[0.047 s] ok
+          kata_tests:19: gen_random (max_multiple(377, 521073))...[0.078 s] ok
+          kata_tests:19: gen_random (max_multiple(215, 477691))...[0.063 s] ok
+          kata_tests:19: gen_random (max_multiple(750, 205320))...[0.031 s] ok
+          kata_tests:19: gen_random (max_multiple(310, 608440))...[0.109 s] ok
+          kata_tests:19: gen_random (max_multiple(681, 362961))...[0.047 s] ok
+          kata_tests:19: gen_random (max_multiple(213, 526706))...[0.078 s] ok
+          kata_tests:19: gen_random (max_multiple(938, 824340))...[0.157 s] ok
+          kata_tests:19: gen_random (max_multiple(207, 706822))...[0.110 s] ok
+          kata_tests:19: gen_random (max_multiple(223, 812090))...[0.125 s] ok
+          kata_tests:19: gen_random (max_multiple(93, 700740))...[0.094 s] ok
+          kata_tests:19: gen_random (max_multiple(484, 947327))...[0.125 s] ok
+          kata_tests:19: gen_random (max_multiple(793, 504124))...[0.062 s] ok
+          kata_tests:19: gen_random (max_multiple(855, 210650))...[0.031 s] ok
+          kata_tests:19: gen_random (max_multiple(524, 355436))...[0.047 s] ok
+          kata_tests:19: gen_random (max_multiple(921, 736840))...[0.110 s] ok
+          kata_tests:19: gen_random (max_multiple(499, 609773))...[0.078 s] ok
+          kata_tests:19: gen_random (max_multiple(708, 575996))...[0.078 s] ok
+          kata_tests:19: gen_random (max_multiple(122, 621476))...[0.094 s] ok
+          kata_tests:19: gen_random (max_multiple(757, 544763))...[0.078 s] ok
+          kata_tests:19: gen_random (max_multiple(978, 26601))...ok
+          kata_tests:19: gen_random (max_multiple(947, 413487))...[0.062 s] ok
+          kata_tests:19: gen_random (max_multiple(584, 742639))...[0.109 s] ok
+          kata_tests:19: gen_random (max_multiple(480, 49643))...ok
+          kata_tests:19: gen_random (max_multiple(923, 394942))...[0.047 s] ok
+          kata_tests:19: gen_random (max_multiple(644, 754853))...[0.109 s] ok
+          kata_tests:19: gen_random (max_multiple(603, 641726))...[0.094 s] ok
+          kata_tests:19: gen_random (max_multiple(373, 439757))...[0.063 s] ok
+          kata_tests:19: gen_random (max_multiple(492, 61235))...ok
+          kata_tests:19: gen_random (max_multiple(773, 495794))...[0.078 s] ok
+          kata_tests:19: gen_random (max_multiple(60, 168579))...[0.015 s] ok
+          kata_tests:19: gen_random (max_multiple(166, 301727))...[0.031 s] ok
+          kata_tests:19: gen_random (max_multiple(125, 251063))...[0.031 s] ok
+          kata_tests:19: gen_random (max_multiple(784, 451062))...[0.062 s] ok
+          kata_tests:19: gen_random (max_multiple(568, 643535))...[0.094 s] ok
+          kata_tests:19: gen_random (max_multiple(419, 746498))...[0.110 s] ok
+          kata_tests:19: gen_random (max_multiple(750, 180919))...[0.016 s] ok
+          kata_tests:19: gen_random (max_multiple(503, 119801))...[0.016 s] ok
+          kata_tests:19: gen_random (max_multiple(687, 213893))...[0.015 s] ok
+          kata_tests:19: gen_random (max_multiple(963, 61342))...ok
+          kata_tests:19: gen_random (max_multiple(436, 998096))...[0.156 s] ok
+          kata_tests:19: gen_random (max_multiple(221, 812702))...[0.110 s] ok
+          kata_tests:19: gen_random (max_multiple(511, 820511))...[0.125 s] ok
+          kata_tests:19: gen_random (max_multiple(530, 130920))...[0.016 s] ok
+          kata_tests:19: gen_random (max_multiple(757, 911492))...[0.125 s] ok
+          kata_tests:19: gen_random (max_multiple(71, 446314))...[0.078 s] ok
+          kata_tests:19: gen_random (max_multiple(555, 4699))...ok
+          kata_tests:19: gen_random (max_multiple(477, 797363))...[0.110 s] ok
+          kata_tests:19: gen_random (max_multiple(924, 347253))...[0.047 s] ok
+          kata_tests:19: gen_random (max_multiple(894, 735815))...[0.109 s] ok
+          kata_tests:19: gen_random (max_multiple(793, 864712))...[0.125 s] ok
+          kata_tests:19: gen_random (max_multiple(131, 396393))...[0.063 s] ok
+          kata_tests:19: gen_random (max_multiple(180, 43102))...ok
+          kata_tests:19: gen_random (max_multiple(461, 834856))...[0.141 s] ok
+          kata_tests:19: gen_random (max_multiple(671, 100291))...[0.016 s] ok
+          kata_tests:19: gen_random (max_multiple(536, 433533))...[0.062 s] ok
+          kata_tests:19: gen_random (max_multiple(426, 78920))...ok
+          kata_tests:19: gen_random (max_multiple(642, 721926))...[0.110 s] ok
+          kata_tests:19: gen_random (max_multiple(867, 78886))...ok
+          kata_tests:19: gen_random (max_multiple(810, 957746))...[0.156 s] ok
+          kata_tests:19: gen_random (max_multiple(158, 34972))...ok
+          kata_tests:19: gen_random (max_multiple(446, 45266))...ok
+          kata_tests:19: gen_random (max_multiple(410, 258186))...[0.031 s] ok
+          kata_tests:19: gen_random (max_multiple(707, 319841))...[0.047 s] ok
+          kata_tests:19: gen_random (max_multiple(820, 519287))...[0.062 s] ok
+          kata_tests:19: gen_random (max_multiple(63, 915289))...[0.140 s] ok
+          kata_tests:19: gen_random (max_multiple(859, 793667))...[0.125 s] ok
+          kata_tests:19: gen_random (max_multiple(328, 793505))...[0.109 s] ok
+          kata_tests:19: gen_random (max_multiple(814, 704418))...[0.093 s] ok
+          kata_tests:19: gen_random (max_multiple(479, 367349))...[0.047 s] ok
+          kata_tests:19: gen_random (max_multiple(777, 345127))...[0.047 s] ok
+          kata_tests:19: gen_random (max_multiple(683, 903820))...[0.141 s] ok
+          kata_tests:19: gen_random (max_multiple(931, 298858))...[0.047 s] ok
+          kata_tests:19: gen_random (max_multiple(251, 728107))...[0.093 s] ok
+          kata_tests:19: gen_random (max_multiple(910, 645098))...[0.094 s] ok
+          kata_tests:19: gen_random (max_multiple(620, 4920))...ok
+          kata_tests:19: gen_random (max_multiple(653, 635432))...[0.094 s] ok
+          kata_tests:19: gen_random (max_multiple(341, 877586))...[0.141 s] ok
+          kata_tests:19: gen_random (max_multiple(876, 252233))...[0.031 s] ok
+          kata_tests:19: gen_random (max_multiple(73, 730901))...[0.109 s] ok
+          kata_tests:19: gen_random (max_multiple(714, 637714))...[0.093 s] ok
+          kata_tests:19: gen_random (max_multiple(924, 474782))...[0.078 s] ok
+          kata_tests:19: gen_random (max_multiple(647, 86985))...ok
+          kata_tests:19: gen_random (max_multiple(611, 587832))...[0.078 s] ok
+          kata_tests:19: gen_random (max_multiple(363, 399082))...[0.063 s] ok
+          kata_tests:19: gen_random (max_multiple(347, 517608))...[0.078 s] ok
+          kata_tests:19: gen_random (max_multiple(237, 572843))...[0.078 s] ok
+          kata_tests:19: gen_random (max_multiple(139, 898345))...[0.140 s] ok
+          kata_tests:19: gen_random (max_multiple(469, 865068))...[0.125 s] ok
+          [done in 8.922 s]
+        [done in 9.016 s]
+      [done in 9.032 s]
+    [done in 9.032 s]
+  [done in 9.032 s]
+=======================================================
+  All 106 tests passed.
